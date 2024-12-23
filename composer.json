@@ -1,0 +1,30 @@
+{
+  "name": "ideaglory/database",
+  "description": "PHP Singleton Database Class",
+  "keywords": [
+    "database",
+    "mysql",
+    "singleton",
+    "ideaglory",
+    "php"
+  ],
+  "homepage": "https://ideaglory.com",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "David Mat",
+      "email": "dev@ideaglory.com",
+      "homepage": "https://ideaglory.com",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Ideaglory\\": "src"
+    }
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": true,
+  "require": {}
+}
